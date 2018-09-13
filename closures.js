@@ -7,7 +7,7 @@ function addthem(inner) {
 }
 addthem(2);
 
-// Standard Closure Example
+// Standard (and slightly complex) Closure Example
 
 function one() {
     let x = 2;
